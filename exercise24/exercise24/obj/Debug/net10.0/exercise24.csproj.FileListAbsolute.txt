@@ -1,0 +1,14 @@
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\bin\Debug\net10.0\exercise24.exe
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\bin\Debug\net10.0\exercise24.deps.json
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\bin\Debug\net10.0\exercise24.runtimeconfig.json
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\bin\Debug\net10.0\exercise24.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\bin\Debug\net10.0\exercise24.pdb
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.AssemblyInfoInputs.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.AssemblyInfo.cs
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.csproj.CoreCompileInputs.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\refint\exercise24.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.pdb
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\exercise24.genruntimeconfig.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise24\exercise24\obj\Debug\net10.0\ref\exercise24.dll

@@ -1,0 +1,14 @@
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\bin\Debug\net10.0\exercise12.exe
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\bin\Debug\net10.0\exercise12.deps.json
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\bin\Debug\net10.0\exercise12.runtimeconfig.json
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\bin\Debug\net10.0\exercise12.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\bin\Debug\net10.0\exercise12.pdb
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.AssemblyInfoInputs.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.AssemblyInfo.cs
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.csproj.CoreCompileInputs.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\refint\exercise12.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.pdb
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\exercise12.genruntimeconfig.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\exercise12\exercise12\obj\Debug\net10.0\ref\exercise12.dll

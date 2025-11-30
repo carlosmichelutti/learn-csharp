@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80ED3F05-F305-47DB-B860-1E3C4F38E541}|exercise15\\exercise15.csproj|c:\\users\\duzin\\documents\\github\\learn-c#\\exercise15\\exercise15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ED3F05-F305-47DB-B860-1E3C4F38E541}|exercise15\\exercise15.csproj|solutionrelative:exercise15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 398,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise15\\exercise15\\Program.cs",
+              "RelativeDocumentMoniker": "exercise15\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise15\\exercise15\\Program.cs",
+              "RelativeToolTip": "exercise15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:43:50.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

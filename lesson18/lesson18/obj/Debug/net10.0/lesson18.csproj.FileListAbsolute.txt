@@ -1,0 +1,14 @@
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\bin\Debug\net10.0\lesson18.exe
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\bin\Debug\net10.0\lesson18.deps.json
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\bin\Debug\net10.0\lesson18.runtimeconfig.json
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\bin\Debug\net10.0\lesson18.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\bin\Debug\net10.0\lesson18.pdb
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.AssemblyInfoInputs.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.AssemblyInfo.cs
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.csproj.CoreCompileInputs.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\refint\lesson18.dll
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.pdb
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\lesson18.genruntimeconfig.cache
+C:\Users\duzin\Documents\GitHub\learn-c#\lesson18\lesson18\obj\Debug\net10.0\ref\lesson18.dll
