@@ -12,11 +12,11 @@ public class Program
 
         if (match)
         {
-            Console.WriteLine("The coupon code is valid");
+            Console.WriteLine("The coupon code is valid.");
         }
         else
         {
-            Console.WriteLine("The coupon code is not valid");
+            Console.WriteLine("The coupon code is not valid.");
         }
     }
 }

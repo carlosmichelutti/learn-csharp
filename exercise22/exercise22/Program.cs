@@ -9,15 +9,15 @@ public class Program
 
         if (saldo > 0)
         {
-            Console.WriteLine($"The balance is positive. Balance: ${saldo:F2}.");
+            Console.WriteLine($"The balance is positive. Balance: ${saldo:F2}");
         }
         else if (saldo < 0)
         {
-            Console.WriteLine($"The balance is negative. Balance: ${saldo:F2}.");
+            Console.WriteLine($"The balance is negative. Balance: ${saldo:F2}");
         }
         else
         {
-            Console.WriteLine($"The balance is zero. Balance: ${saldo:F2}.");
+            Console.WriteLine($"The balance is zero. Balance: ${saldo:F2}");
         }
     }
 }

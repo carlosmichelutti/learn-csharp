@@ -5,7 +5,7 @@ public class Program
     public static void Main()
     {
         string keyword = "c#";
-        Console.WriteLine("Type some text: ");
+        Console.Write("Type some text: ");
         string textUser = Console.ReadLine().ToLower();
 
         if (textUser.Contains(keyword))

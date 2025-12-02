@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise11\\exercise11\\exercise11.csproj",
+      "projectUniqueName": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise11\\exercise11\\exercise11.csproj",
       "projectName": "exercise11",
-      "projectPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise11\\exercise11\\exercise11.csproj",
+      "projectPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise11\\exercise11\\exercise11.csproj",
       "packagesPath": "C:\\Users\\duzin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise11\\exercise11\\obj\\",
+      "outputPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise11\\exercise11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duzin\\AppData\\Roaming\\NuGet\\NuGet.Config",

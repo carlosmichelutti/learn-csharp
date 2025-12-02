@@ -3,7 +3,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Enter your year of birth: ");
+        Console.Write("Enter your year of birth: ");
         int yearBirth = Convert.ToInt32(Console.ReadLine());
         int currentYear = 2025;
         int userAge = currentYear - yearBirth;

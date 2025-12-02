@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Type some text: ");
+        Console.Write("Type some text: ");
         string textUser = Console.ReadLine();
         int numberCharacters = textUser.Length;
 

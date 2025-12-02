@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise18\\",
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E66C5AC6-0D78-8189-57ED-04BBC54C2AEB}|exercise18\\exercise18.csproj|c:\\users\\duzin\\documents\\github\\learn-c#\\exercise18\\exercise18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E66C5AC6-0D78-8189-57ED-04BBC54C2AEB}|exercise18\\exercise18.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise18\\exercise18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E66C5AC6-0D78-8189-57ED-04BBC54C2AEB}|exercise18\\exercise18.csproj|solutionrelative:exercise18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise18\\exercise18\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise18\\exercise18\\Program.cs",
               "RelativeDocumentMoniker": "exercise18\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise18\\exercise18\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise18\\exercise18\\Program.cs",
               "RelativeToolTip": "exercise18\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

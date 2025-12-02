@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise19\\exercise19\\exercise19.csproj": {}
+    "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise19\\exercise19\\exercise19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise19\\exercise19\\exercise19.csproj": {
+    "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise19\\exercise19\\exercise19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise19\\exercise19\\exercise19.csproj",
+        "projectUniqueName": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise19\\exercise19\\exercise19.csproj",
         "projectName": "exercise19",
-        "projectPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise19\\exercise19\\exercise19.csproj",
+        "projectPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise19\\exercise19\\exercise19.csproj",
         "packagesPath": "C:\\Users\\duzin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise19\\exercise19\\obj\\",
+        "outputPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise19\\exercise19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duzin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.Write("Enter the age: ");
+        Console.Write("Enter your age: ");
         int age = Convert.ToInt32(Console.ReadLine());
         string ageRange;
 
@@ -24,7 +24,6 @@ public class Program
         {
             ageRange = "Elderly";
         }
-
-        Console.WriteLine($"Classification {ageRange}");
+        Console.WriteLine($"Your classification is: {ageRange}");
     }
 }

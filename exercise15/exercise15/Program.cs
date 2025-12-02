@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Enter the alert: ");
+        Console.Write("Enter the alert: ");
         string alert = Console.ReadLine().ToUpper();
 
         Console.WriteLine(alert);

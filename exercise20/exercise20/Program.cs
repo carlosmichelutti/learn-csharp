@@ -6,17 +6,17 @@ public class Program
 {
     public static void Main()
     {
-        Console.Write("Digite a data (YYYY-MM-DD): ");
+        Console.Write("Enter the date (YYYY-MM-DD): ");
         string date = Console.ReadLine();
         bool match = Regex.IsMatch(date, @"^\d{4}-\d{2}-\d{2}$");
 
         if (match)
         {
-            Console.WriteLine($"A data \"{date}\" está no formato correto.");
+            Console.WriteLine($"The date \"{date}\" is in the correct format.");
         }
         else
         {
-            Console.WriteLine($"A data \"{date}\" está no formato inválido! Use YYYY-MM-DD.");
+            Console.WriteLine($"The date \"{date}\" is in an invalid format! Use YYYY-MM-DD.");
         }
     }
 }

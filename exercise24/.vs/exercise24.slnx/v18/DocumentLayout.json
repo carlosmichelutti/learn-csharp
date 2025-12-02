@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise24\\",
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CFE8ACD-A0F2-AA8D-0D1D-3D9B656603EA}|exercise24\\exercise24.csproj|c:\\users\\duzin\\documents\\github\\learn-c#\\exercise24\\exercise24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CFE8ACD-A0F2-AA8D-0D1D-3D9B656603EA}|exercise24\\exercise24.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise24\\exercise24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFE8ACD-A0F2-AA8D-0D1D-3D9B656603EA}|exercise24\\exercise24.csproj|solutionrelative:exercise24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise24\\exercise24\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise24\\exercise24\\Program.cs",
               "RelativeDocumentMoniker": "exercise24\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise24\\exercise24\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise24\\exercise24\\Program.cs",
               "RelativeToolTip": "exercise24\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

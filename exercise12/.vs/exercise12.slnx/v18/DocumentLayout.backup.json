@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise12\\",
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78ED4A18-88D6-42A1-B486-A70D2A23CE70}|exercise12\\exercise12.csproj|c:\\users\\duzin\\documents\\github\\learn-c#\\exercise12\\exercise12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78ED4A18-88D6-42A1-B486-A70D2A23CE70}|exercise12\\exercise12.csproj|solutionrelative:exercise12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A80A1558-BEC0-CB86-6D81-D29DF28CA06F}|exercise12\\exercise12.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise12\\exercise12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80A1558-BEC0-CB86-6D81-D29DF28CA06F}|exercise12\\exercise12.csproj|solutionrelative:exercise12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise12\\exercise12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise12\\exercise12\\Program.cs",
               "RelativeDocumentMoniker": "exercise12\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise12\\exercise12\\Program.cs*",
-              "RelativeToolTip": "exercise12\\Program.cs*",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise12\\exercise12\\Program.cs",
+              "RelativeToolTip": "exercise12\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T16:23:13.411Z",

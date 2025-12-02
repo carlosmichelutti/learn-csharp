@@ -8,6 +8,6 @@ public class Program
         int hours = minutes / 60;
         int remainingMinutes = minutes % 60;
 
-        Console.WriteLine($"Time: {hours} hours and {remainingMinutes} minutes");
+        Console.WriteLine($"Time: {hours} hours and {remainingMinutes} minutes.");
     }
 }

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise10\\",
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B49DA4E5-B255-43D9-ABC0-F476585B3A08}|exercise10\\exercise10.csproj|c:\\users\\duzin\\documents\\github\\learn-c#\\exercise10\\exercise10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B49DA4E5-B255-43D9-ABC0-F476585B3A08}|exercise10\\exercise10.csproj|solutionrelative:exercise10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1434F872-7859-B047-9721-82186FF9D7BA}|exercise10\\exercise10.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise10\\exercise10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1434F872-7859-B047-9721-82186FF9D7BA}|exercise10\\exercise10.csproj|solutionrelative:exercise10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise10\\exercise10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise10\\exercise10\\Program.cs",
               "RelativeDocumentMoniker": "exercise10\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise10\\exercise10\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise10\\exercise10\\Program.cs",
               "RelativeToolTip": "exercise10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
