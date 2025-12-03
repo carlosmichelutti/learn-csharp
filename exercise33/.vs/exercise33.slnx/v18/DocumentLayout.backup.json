@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise33\\",
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise33\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{337243E5-7EA6-45E5-B546-6957FEC10D51}|exercise33\\exercise33.csproj|c:\\users\\duzin\\documents\\github\\learn-c#\\exercise33\\exercise33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337243E5-7EA6-45E5-B546-6957FEC10D51}|exercise33\\exercise33.csproj|solutionrelative:exercise33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2293051-43C8-FD81-9469-58D11AE4378F}|exercise33\\exercise33.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise33\\exercise33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2293051-43C8-FD81-9469-58D11AE4378F}|exercise33\\exercise33.csproj|solutionrelative:exercise33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise33\\exercise33\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise33\\exercise33\\Program.cs",
               "RelativeDocumentMoniker": "exercise33\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-c#\\exercise33\\exercise33\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise33\\exercise33\\Program.cs",
               "RelativeToolTip": "exercise33\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T00:41:08.93Z",
               "EditorCaption": ""
