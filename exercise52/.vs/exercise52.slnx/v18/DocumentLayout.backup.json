@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise52\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5F10BD-55D0-4D27-89B5-92E4896D08EF}|exercise52\\exercise52.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise52\\exercise52\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5F10BD-55D0-4D27-89B5-92E4896D08EF}|exercise52\\exercise52.csproj|solutionrelative:exercise52\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 398,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise52\\exercise52\\Program.cs",
-              "RelativeDocumentMoniker": "exercise52\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise52\\exercise52\\Program.cs",
-              "RelativeToolTip": "exercise52\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T22:39:18.446Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
