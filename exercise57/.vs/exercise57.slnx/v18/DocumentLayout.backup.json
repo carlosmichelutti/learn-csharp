@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise57\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F084F2-BECC-40FB-A81F-90D2429644FA}|exercise57\\exercise57.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise57\\exercise57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F084F2-BECC-40FB-A81F-90D2429644FA}|exercise57\\exercise57.csproj|solutionrelative:exercise57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F084F2-BECC-40FB-A81F-90D2429644FA}|exercise57\\exercise57.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise57\\exercise57\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F084F2-BECC-40FB-A81F-90D2429644FA}|exercise57\\exercise57.csproj|solutionrelative:exercise57\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 398,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise57\\exercise57\\Rectangle.cs",
+              "RelativeDocumentMoniker": "exercise57\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise57\\exercise57\\Rectangle.cs",
+              "RelativeToolTip": "exercise57\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:30:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise57\\exercise57\\Program.cs",
+              "RelativeDocumentMoniker": "exercise57\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise57\\exercise57\\Program.cs*",
+              "RelativeToolTip": "exercise57\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:28:37.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
