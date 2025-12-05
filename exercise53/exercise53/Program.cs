@@ -1,6 +1,4 @@
-﻿Book book = new Book();
-book.title = "Dom Casmurro";
-book.author = "Machado de Assis";
+﻿Book book = new Book("Dom Casmurro", "Machado de Assis");
 
-Console.WriteLine($"Book: {book.title}");
-Console.WriteLine($"Author: {book.author}");
+Console.WriteLine($"Book: {book.Title}");
+Console.WriteLine($"Author: {book.Author}");
