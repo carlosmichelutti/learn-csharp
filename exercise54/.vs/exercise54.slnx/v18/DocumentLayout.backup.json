@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise54\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30356B34-C0C2-49DA-8505-1B85FE7414FD}|exercise54\\exercise54.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise54\\exercise54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30356B34-C0C2-49DA-8505-1B85FE7414FD}|exercise54\\exercise54.csproj|solutionrelative:exercise54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30356B34-C0C2-49DA-8505-1B85FE7414FD}|exercise54\\exercise54.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise54\\exercise54\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30356B34-C0C2-49DA-8505-1B85FE7414FD}|exercise54\\exercise54.csproj|solutionrelative:exercise54\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05873867-5D04-0DE4-FCD2-D43B8D31DD9D}|exercise54\\exercise54.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise54\\exercise54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05873867-5D04-0DE4-FCD2-D43B8D31DD9D}|exercise54\\exercise54.csproj|solutionrelative:exercise54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 398,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise54\\exercise54\\Ticket.cs",
-              "RelativeDocumentMoniker": "exercise54\\Ticket.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise54\\exercise54\\Ticket.cs",
-              "RelativeToolTip": "exercise54\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T23:29:34.692Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise54\\exercise54\\Program.cs",
               "RelativeDocumentMoniker": "exercise54\\Program.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise54\\exercise54\\Program.cs*",
-              "RelativeToolTip": "exercise54\\Program.cs*",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise54\\exercise54\\Program.cs",
+              "RelativeToolTip": "exercise54\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T23:27:56.716Z",
