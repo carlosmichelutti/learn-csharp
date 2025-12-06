@@ -5,11 +5,11 @@ public class Program
     public static void Main()
     {
         int quantityLives = 5;
-        int FinalNumberOfLives = 0;
+        int finalNumberOfLives = 0;
         quantityLives--;
         quantityLives += 2;
-        FinalNumberOfLives = quantityLives;
+        finalNumberOfLives = quantityLives;
 
-        Console.WriteLine($"Final Lives: {FinalNumberOfLives}");
+        Console.WriteLine($"Final Lives: {finalNumberOfLives}");
     }
 }
