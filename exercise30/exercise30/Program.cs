@@ -20,6 +20,7 @@ public class Program
             >= 900 and <= 999 => "juvenile",
             _ => "Code doesn't exist"
         };
+
         Console.WriteLine(bookClassification);
     }
 }
