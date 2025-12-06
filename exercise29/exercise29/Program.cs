@@ -15,6 +15,7 @@ public class Program
             "SPECIAL" => "Reward: Legendary item unlocked.",
             _ => $"Reward: {rewardCode} unavailable."
         };
+
         Console.WriteLine(message);
     }
 }
