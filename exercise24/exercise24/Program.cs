@@ -24,6 +24,7 @@ public class Program
         {
             performanceRating = 'D';
         }
+
         Console.WriteLine($"The student received a grade of {performanceRating}.");
     }
 }
