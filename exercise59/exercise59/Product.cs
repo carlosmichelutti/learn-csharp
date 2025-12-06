@@ -9,7 +9,7 @@
         QuantityStock = quantityStock;
     }
 
-    public void remove_from_stock(int quantityRemove)
+    public void RemoveFromStock(int quantityRemove)
     {
         if (quantityRemove < QuantityStock)
         {
@@ -20,7 +20,7 @@
         Console.WriteLine($"Error: Insufficient stock for withdrawal of {quantityRemove} units.");
     }
 
-    public void display_stock()
+    public void DisplayStock()
     {
         Console.WriteLine($"Product: {Name} - Stock: {QuantityStock}");
     }
