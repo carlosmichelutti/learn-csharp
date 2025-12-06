@@ -22,7 +22,6 @@ public class Program
                 Console.WriteLine("Wrong number! Please try again.");
                 attempts++;
             }
-
         } while (userNumber != secretNumber);
     }
 }
