@@ -19,6 +19,7 @@ public class Program
             "/" => (number1 / number2),
             _ => 0
         };
+
         Console.WriteLine($"Result: {result}");
     }
 }
