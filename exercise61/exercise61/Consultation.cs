@@ -13,13 +13,13 @@
         Rescheduled = false;
     }
 
-    public void reschedule(DateTime newDate)
+    public void Reschedule(DateTime newDate)
     {
         ConsultationDate = newDate;
         Rescheduled = true;
     }
 
-    public void display_consultation()
+    public void DisplayConsultation()
     {
         if (Rescheduled)
         {
