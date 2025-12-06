@@ -5,19 +5,19 @@ public class Program
     public static void Main()
     {
         Console.Write("Enter the balance: ");
-        double saldo = Convert.ToDouble(Console.ReadLine());
+        double balance = Convert.ToDouble(Console.ReadLine());
 
-        if (saldo > 0)
+        if (balance > 0)
         {
-            Console.WriteLine($"The balance is positive. Balance: ${saldo:F2}");
+            Console.WriteLine($"The balance is positive. Balance: ${balance:F2}");
         }
-        else if (saldo < 0)
+        else if (balance < 0)
         {
-            Console.WriteLine($"The balance is negative. Balance: ${saldo:F2}");
+            Console.WriteLine($"The balance is negative. Balance: ${balance:F2}");
         }
         else
         {
-            Console.WriteLine($"The balance is zero. Balance: ${saldo:F2}");
+            Console.WriteLine($"The balance is zero. Balance: ${balance:F2}");
         }
     }
 }
