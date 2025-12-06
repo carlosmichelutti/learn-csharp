@@ -19,6 +19,7 @@ public class Program
             3 => $"Good Evening, {nameUser}.",
             _ => $"Invalid code \"{momentDay}\"."
         };
+
         Console.WriteLine(message);
     }
 }
