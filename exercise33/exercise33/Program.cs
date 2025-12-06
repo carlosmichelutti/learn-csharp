@@ -6,6 +6,7 @@ public class Program
     {
         string[] namesArray = { "Fernanda", "Eduardo", "Gustavo", "Carolina", "Alice", "Bruno", "Daniel" };
         namesArray.Sort();
+
         Console.WriteLine($"The third name in the list after sorting is: {namesArray[2]}");
     }
 }
