@@ -11,7 +11,7 @@
         Status = status;
     }
 
-    public void update_status(string newStatus)
+    public void UpdateStatus(string newStatus)
     {
         if (Status != newStatus)
         {
@@ -19,7 +19,7 @@
         }
     }
 
-    public void display_order()
+    public void DisplayOrder()
     {
         Console.WriteLine($"Order: {OrderNumber}");
         Console.WriteLine($"Customer: {CustomerName}");
