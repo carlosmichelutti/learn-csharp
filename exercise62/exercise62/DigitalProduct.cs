@@ -11,7 +11,7 @@
         TechnicalInformation = technicalInformation;
     }
 
-    public void show_details()
+    public void ShowDetails()
     {
         Console.WriteLine($"Product: {Name}");
         Console.WriteLine($"Price: ${Price:F2}");
