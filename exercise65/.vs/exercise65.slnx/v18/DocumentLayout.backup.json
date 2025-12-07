@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise65\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D467F2-F85D-BA2A-2F09-D32C838BE43A}|exercise65\\exercise65.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise65\\exercise65\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D467F2-F85D-BA2A-2F09-D32C838BE43A}|exercise65\\exercise65.csproj|solutionrelative:exercise65\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D467F2-F85D-BA2A-2F09-D32C838BE43A}|exercise65\\exercise65.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise65\\exercise65\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D467F2-F85D-BA2A-2F09-D32C838BE43A}|exercise65\\exercise65.csproj|solutionrelative:exercise65\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 398,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise65\\exercise65\\Program.cs",
+              "RelativeDocumentMoniker": "exercise65\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise65\\exercise65\\Program.cs",
+              "RelativeToolTip": "exercise65\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:14:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise65\\exercise65\\Stock.cs",
+              "RelativeDocumentMoniker": "exercise65\\Stock.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise65\\exercise65\\Stock.cs*",
+              "RelativeToolTip": "exercise65\\Stock.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:05:50.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
