@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{088423DB-202E-EEE3-4F7B-7044FF977F64}|exercise63\\exercise63.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise63\\exercise63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088423DB-202E-EEE3-4F7B-7044FF977F64}|exercise63\\exercise63.csproj|solutionrelative:exercise63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088423DB-202E-EEE3-4F7B-7044FF977F64}|exercise63\\exercise63.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise63\\exercise63\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088423DB-202E-EEE3-4F7B-7044FF977F64}|exercise63\\exercise63.csproj|solutionrelative:exercise63\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 398,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise63\\exercise63\\BankAccount.cs",
-              "RelativeDocumentMoniker": "exercise63\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise63\\exercise63\\BankAccount.cs",
-              "RelativeToolTip": "exercise63\\BankAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T22:41:41.951Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,7 +26,7 @@
               "RelativeToolTip": "exercise63\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T22:40:49.031Z",
+              "WhenOpened": "2025-12-07T17:01:48.639Z",
               "EditorCaption": ""
             }
           ]
