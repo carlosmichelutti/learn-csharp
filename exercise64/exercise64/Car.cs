@@ -14,7 +14,7 @@
         }
     }
     public int Speed { get; set; } = 0;
-    public string DetailedDescription => $"Car model: {this.Manufacturer} {this.Model} {this._year}";
+    public string DetailedDescription => $"Car model: {this.Manufacturer} {this.Model} {this.Year}";
 
     public Car(string manufacturer, string model, int year)
     {
