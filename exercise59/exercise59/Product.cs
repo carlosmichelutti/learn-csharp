@@ -11,7 +11,7 @@
 
     public void RemoveFromStock(int quantityRemove)
     {
-        if (quantityRemove < QuantityStock)
+        if (quantityRemove <= QuantityStock)
         {
             Console.WriteLine($"Withdrawal of {quantityRemove} units successfully completed.");
             QuantityStock -= quantityRemove;
