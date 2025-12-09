@@ -1,4 +1,4 @@
-﻿namespace exercise65.Models;
+﻿namespace Exercise65.Models;
 
 public class Stock
 {
