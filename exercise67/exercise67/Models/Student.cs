@@ -1,4 +1,4 @@
-﻿namespace exercise67.Models;
+﻿namespace Exercise67.Models;
 
 public class Student
 {
