@@ -1,4 +1,6 @@
-﻿public class BankAccount
+﻿namespace exercise55.Models;
+
+public class BankAccount
 {
     public string AccountNumber { get; set; }
     public double Balance { get; set; }
