@@ -1,4 +1,4 @@
-﻿namespace exercise53.Models;
+﻿namespace Exercise53.Models;
 
 public class Book
 {
