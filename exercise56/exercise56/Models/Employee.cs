@@ -1,4 +1,4 @@
-﻿namespace exercise56.Models;
+﻿namespace Exercise56.Models;
 
 public class Employee
 {
