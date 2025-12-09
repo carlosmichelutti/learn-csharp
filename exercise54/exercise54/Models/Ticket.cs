@@ -1,4 +1,6 @@
-﻿public class Ticket
+﻿namespace exercise54.Models;
+
+public class Ticket
 {
     public string Passenger { get; set; }
     public string Destination { get; set; }
