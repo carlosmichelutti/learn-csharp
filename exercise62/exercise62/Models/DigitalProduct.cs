@@ -1,4 +1,6 @@
-﻿public class DigitalProduct
+﻿namespace exercise62.Models;
+
+public class DigitalProduct
 {
     public string Name { get; set; }
     public double Price { get; set; }
