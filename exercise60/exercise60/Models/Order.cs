@@ -1,4 +1,6 @@
-﻿public class Order
+﻿namespace exercise60.Models;
+
+public class Order
 {
     public string OrderNumber { get; set; }
     public string CustomerName { get; set; }
