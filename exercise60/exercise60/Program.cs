@@ -1,4 +1,4 @@
-﻿using exercise60.Models;
+﻿using Exercise60.Models;
 
 Order order = new Order("001", "Ana Silva", "Pending");
 order.DisplayOrder();
