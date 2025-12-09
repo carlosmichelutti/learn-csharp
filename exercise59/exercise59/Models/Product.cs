@@ -1,4 +1,6 @@
-﻿public class Product
+﻿namespace exercise59.Models;
+
+public class Product
 {
     public string Name { get; set; }
     private int QuantityStock { get; set; }
