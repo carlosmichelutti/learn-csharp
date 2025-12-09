@@ -1,4 +1,6 @@
-﻿public class Discipline
+﻿namespace exercise67.Models;
+
+public class Discipline
 {
     public string Name { get; set; }
     private List<Student> _students = new List<Student>();
