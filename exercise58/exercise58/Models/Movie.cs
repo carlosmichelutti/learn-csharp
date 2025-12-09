@@ -1,4 +1,6 @@
-﻿public class Movie
+﻿namespace exercise58.Models;
+
+public class Movie
 {
     public string Title { get; set; }
     public int AgeClassification { get; set; }
