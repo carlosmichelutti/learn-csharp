@@ -1,4 +1,6 @@
-﻿public class Holder
+﻿namespace exercise63.Models;
+
+public class Holder
 {
     public string FirstName { get; set; }
     public string LastName { get; set; }

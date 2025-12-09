@@ -1,4 +1,6 @@
-﻿public class BankAccount
+﻿namespace exercise63.Models;
+
+public class BankAccount
 {
     public int AccountNumber { get; set; }
     public Holder Holder { get; set; }
