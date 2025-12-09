@@ -1,4 +1,4 @@
-﻿namespace exercise62.Models;
+﻿namespace Exercise62.Models;
 
 public class DigitalProduct
 {
