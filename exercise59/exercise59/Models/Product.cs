@@ -1,4 +1,4 @@
-﻿namespace exercise59.Models;
+﻿namespace Exercise59.Models;
 
 public class Product
 {
