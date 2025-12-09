@@ -1,4 +1,6 @@
-﻿public class Book
+﻿namespace exercise53.Models;
+
+public class Book
 {
     public string Title;
     public string Author;
