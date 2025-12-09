@@ -1,4 +1,6 @@
-﻿public class Car
+﻿namespace exercise64.Models;
+
+public class Car
 {
     private int _year;
     public string Manufacturer { get; set; }
