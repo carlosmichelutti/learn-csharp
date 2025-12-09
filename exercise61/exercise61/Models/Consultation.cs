@@ -1,4 +1,4 @@
-﻿namespace exercise61.Models;
+﻿namespace Exercise61.Models;
 
 public class Consultation
 {
