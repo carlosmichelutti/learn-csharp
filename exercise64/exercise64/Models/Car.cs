@@ -1,4 +1,4 @@
-﻿namespace exercise64.Models;
+﻿namespace Exercise64.Models;
 
 public class Car
 {
