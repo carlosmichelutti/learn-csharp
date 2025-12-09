@@ -1,4 +1,6 @@
-﻿public class Consultation
+﻿namespace exercise61.Models;
+
+public class Consultation
 {
     public string PatientName { get; set; }
     public string DoctorName { get; set; }
