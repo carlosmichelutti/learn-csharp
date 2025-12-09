@@ -1,4 +1,6 @@
-﻿Employee employee = new Employee("Carlos Pereira", "Administrative Assistant");
+﻿using exercise56.Models;
+
+Employee employee = new Employee("Carlos Pereira", "Administrative Assistant");
 
 Console.WriteLine($"Employee: {employee.Name}");
 Console.WriteLine($"Current Position: {employee.Position}");
