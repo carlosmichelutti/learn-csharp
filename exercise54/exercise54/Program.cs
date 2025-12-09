@@ -1,4 +1,4 @@
-﻿using exercise54.Models;
+﻿using Exercise54.Models;
 
 Ticket ticket = new Ticket("Lucas Souza", "Paris");
 
