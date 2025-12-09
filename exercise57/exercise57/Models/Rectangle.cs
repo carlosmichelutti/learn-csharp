@@ -1,4 +1,4 @@
-﻿namespace exercise57.Models;
+﻿namespace Exercise57.Models;
 
 public class Rectangle
 {
