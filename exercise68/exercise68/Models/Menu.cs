@@ -1,4 +1,6 @@
-﻿public class Menu
+﻿namespace exercise68.Models;
+
+public class Menu
 {
     private readonly List<Item> _items = new List<Item>();
 

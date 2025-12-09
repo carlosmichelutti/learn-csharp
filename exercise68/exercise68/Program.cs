@@ -1,4 +1,6 @@
-﻿Item burger = new Item("Cheese Burger", 12, 15.90);
+﻿using exercise68.Models;
+
+Item burger = new Item("Cheese Burger", 12, 15.90);
 Item soda = new Item("Coca-Cola", 25, 6.50);
 Item fries = new Item("French Fries", 8, 9.00);
 

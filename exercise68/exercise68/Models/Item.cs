@@ -1,4 +1,6 @@
-﻿public class Item
+﻿namespace exercise68.Models;
+
+public class Item
 {
     private int _stock;
     private double _price;

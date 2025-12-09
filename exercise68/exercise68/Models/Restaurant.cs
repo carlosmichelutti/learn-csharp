@@ -1,4 +1,6 @@
-﻿public class Restaurant
+﻿namespace exercise68.Models;
+
+public class Restaurant
 {
     public string Name { get; set; }
     public Menu Menu;

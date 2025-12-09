@@ -1,4 +1,6 @@
-﻿public class Order
+﻿namespace exercise68.Models;
+
+public class Order
 {
     public int OrderNumber { get; set; }
     public double Price { get; }
