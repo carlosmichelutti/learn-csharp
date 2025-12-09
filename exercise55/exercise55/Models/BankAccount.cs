@@ -1,4 +1,4 @@
-﻿namespace exercise55.Models;
+﻿namespace Exercise55.Models;
 
 public class BankAccount
 {
