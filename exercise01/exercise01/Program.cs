@@ -1,4 +1,5 @@
 ﻿namespace exercise01;
+
 public class Program
 {
     public static void Main()
@@ -8,6 +9,6 @@ public class Program
         int currentYear = 2025;
         int userAge = currentYear - yearBirth;
 
-        Console.WriteLine($"Your age is: {userAge} years old");
+        Console.WriteLine($"Your age is {userAge} years old");
     }
 }
