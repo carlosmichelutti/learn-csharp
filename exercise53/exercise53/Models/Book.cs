@@ -1,9 +1,9 @@
 ﻿namespace Exercise53.Models;
 
-public class Book
+internal class Book
 {
-    public string Title;
-    public string Author;
+    public string Title { get; }
+    public string Author { get; }
 
     public Book(string title, string author)
     {
