@@ -1,4 +1,4 @@
-﻿namespace Exercise61.Models;
+﻿namespace exercise61.Models;
 
 internal class Consultation
 {
