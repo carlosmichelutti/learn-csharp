@@ -1,6 +1,6 @@
 ﻿namespace exercise68.Models;
 
-public class Table
+internal class Table
 {
     public int Number { get; set; }
     public bool Reserved { get; set; } = false;

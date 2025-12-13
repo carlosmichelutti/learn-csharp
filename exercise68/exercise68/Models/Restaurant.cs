@@ -1,6 +1,6 @@
 ﻿namespace exercise68.Models;
 
-public class Restaurant
+internal class Restaurant
 {
     public string Name { get; set; }
     public Menu Menu;
