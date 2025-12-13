@@ -1,9 +1,9 @@
 ﻿namespace Exercise61.Models;
 
-public class Consultation
+internal class Consultation
 {
-    public string PatientName { get; set; }
-    public string DoctorName { get; set; }
+    public string PatientName { get; }
+    public string DoctorName { get; }
     public DateTime ConsultationDate { get; set; }
     public bool Rescheduled { get; set; }
 
