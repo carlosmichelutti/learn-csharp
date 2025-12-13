@@ -1,10 +1,10 @@
-﻿namespace Exercise64.Models;
+﻿namespace exercise64.Models;
 
-public class Car
+internal class Car
 {
     private int _year;
-    public string Manufacturer { get; set; }
-    public string Model { get; set; }
+    public string Manufacturer { get; }
+    public string Model { get; }
     public int Year
     {
         get => _year;

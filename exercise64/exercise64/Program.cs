@@ -1,4 +1,4 @@
-﻿using Exercise64.Models;
+﻿using exercise64.Models;
 
 Car car = new Car("Ferrari", "Ferrari 812", 2023);
 Console.WriteLine(car.DetailedDescription);
