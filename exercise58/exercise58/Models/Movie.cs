@@ -1,4 +1,4 @@
-﻿namespace Exercise58.Models;
+﻿namespace exercise58.Models;
 
 internal class Movie
 {

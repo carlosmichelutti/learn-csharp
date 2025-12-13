@@ -1,4 +1,4 @@
-﻿using Exercise58.Models;
+﻿using exercise58.Models;
 
 Movie movie = new Movie("Matrix", 16);
 movie.DisplayResult(14);
