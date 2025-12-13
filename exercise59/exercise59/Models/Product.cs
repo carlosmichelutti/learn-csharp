@@ -1,22 +1,22 @@
 ﻿namespace Exercise59.Models;
 
-public class Product
+internal class Product
 {
+    private int _quantityStock { get; set; }
     public string Name { get; set; }
-    private int QuantityStock { get; set; }
 
     public Product(string name, int quantityStock)
     {
         Name = name;
-        QuantityStock = quantityStock;
+        _quantityStock = quantityStock;
     }
 
     public void RemoveFromStock(int quantityRemove)
     {
-        if (quantityRemove <= QuantityStock)
+        if (quantityRemove <= _quantityStock)
         {
             Console.WriteLine($"Withdrawal of {quantityRemove} units successfully completed.");
-            QuantityStock -= quantityRemove;
+            _quantityStock -= quantityRemove;
             return;
         }
         Console.WriteLine($"Error: Insufficient stock for withdrawal of {quantityRemove} units.");
@@ -24,6 +24,6 @@ public class Product
 
     public void DisplayStock()
     {
-        Console.WriteLine($"Product: {Name} - Stock: {QuantityStock}");
+        Console.WriteLine($"Product: {Name} - Stock: {_quantityStock}");
     }
 }
