@@ -1,4 +1,4 @@
-﻿namespace Exercise68.Models;
+﻿namespace exercise68.Models;
 
 public class Table
 {

@@ -1,4 +1,4 @@
-﻿using Exercise68.Models;
+﻿using exercise68.Models;
 
 Item burger = new Item("Cheese Burger", 12, 15.90);
 Item soda = new Item("Coca-Cola", 25, 6.50);
