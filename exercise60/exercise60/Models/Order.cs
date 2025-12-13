@@ -1,9 +1,9 @@
 ﻿namespace Exercise60.Models;
 
-public class Order
+internal class Order
 {
-    public string OrderNumber { get; set; }
-    public string CustomerName { get; set; }
+    public string OrderNumber { get; }
+    public string CustomerName { get; }
     public string Status { get; set; }
 
     public Order(string orderNumber, string customerName, string status)
