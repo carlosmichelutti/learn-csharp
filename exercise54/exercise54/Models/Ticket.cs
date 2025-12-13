@@ -1,4 +1,4 @@
-﻿namespace Exercise54.Models;
+﻿namespace exercise54.Models;
 
 internal class Ticket
 {
