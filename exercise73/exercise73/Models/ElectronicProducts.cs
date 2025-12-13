@@ -2,9 +2,9 @@
 
 internal class ElectronicProducts
 {
-    public string Brand { get; set; }
-    public string Model { get; set; }
-    public double Price { get; set; }
+    public string Brand { get; }
+    public string Model { get; }
+    public double Price { get; }
 
     public ElectronicProducts(string brand, string model, double price)
     {

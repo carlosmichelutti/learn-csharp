@@ -2,7 +2,7 @@
 
 internal class Tablet : ElectronicProducts
 {
-    public string ScreenType { get; set; }
+    public string ScreenType { get; }
 
     public Tablet(string brand, string model, double price, string screenType)
         : base(brand, model, price)

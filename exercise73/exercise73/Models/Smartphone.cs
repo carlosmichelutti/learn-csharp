@@ -3,7 +3,7 @@
 internal class Smartphone : ElectronicProducts
 {
 
-    public string OperatingSystem { get; set; }
+    public string OperatingSystem { get; }
 
     public Smartphone(string brand, string model, double price, string operatingSystem)
         : base(brand, model, price)

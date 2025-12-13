@@ -2,7 +2,7 @@
 
 internal class Laptop : ElectronicProducts
 {
-    public string OperatingSystem { get; set; }
+    public string OperatingSystem { get; }
 
     public Laptop(string brand, string model, double price, string operatingSystem)
         : base(brand, model, price)
