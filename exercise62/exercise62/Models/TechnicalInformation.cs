@@ -1,9 +1,9 @@
 ﻿namespace Exercise62.Models;
 
-public class TechnicalInformation
+internal class TechnicalInformation
 {
-    public double SizeMB { get; set; }
-    public string OperatingSystem { get; set; }
+    public double SizeMB { get; }
+    public string OperatingSystem { get; }
 
     public TechnicalInformation(double sizeMb, string operatingSystem)
     {

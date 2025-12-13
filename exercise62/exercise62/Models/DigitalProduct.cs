@@ -1,10 +1,10 @@
 ﻿namespace Exercise62.Models;
 
-public class DigitalProduct
+internal class DigitalProduct
 {
-    public string Name { get; set; }
-    public double Price { get; set; }
-    public TechnicalInformation TechnicalInformation { get; set; }
+    public string Name { get; }
+    public double Price { get; }
+    public TechnicalInformation TechnicalInformation { get; }
 
     public DigitalProduct(string name, double price, TechnicalInformation technicalInformation)
     {
