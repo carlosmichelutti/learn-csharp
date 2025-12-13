@@ -1,6 +1,6 @@
 ﻿namespace exercise67.Models;
 
-public class Student
+internal class Student
 {
     public string FirstName { get; set; }
     public string LastName { get; set; }
