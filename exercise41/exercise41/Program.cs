@@ -6,10 +6,7 @@ public class Program
     {
         for (int number = 1; number <= 20; number++)
         {
-            if (number % 3 == 0)
-            {
-                continue;
-            }
+            if (number % 3 == 0) continue;
             Console.WriteLine(number);
         }
     }
