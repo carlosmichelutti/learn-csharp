@@ -1,4 +1,4 @@
-﻿using Exercise57.Models;
+﻿using exercise57.Models;
 
 Rectangle rectangle = new Rectangle(5, 8);
 double area = rectangle.CalculateArea();
