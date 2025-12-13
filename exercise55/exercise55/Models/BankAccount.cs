@@ -1,9 +1,9 @@
 ﻿namespace Exercise55.Models;
 
-public class BankAccount
+internal class BankAccount
 {
-    public string AccountNumber { get; set; }
-    public double Balance { get; set; }
+    public string AccountNumber { get; }
+    internal double Balance { get; set; }
 
     public BankAccount(string accountNumber, double balance)
     {
