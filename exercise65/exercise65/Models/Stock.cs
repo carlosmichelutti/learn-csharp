@@ -1,6 +1,6 @@
 ﻿namespace exercise65.Models;
 
-public class Stock
+internal class Stock
 {
     private List<Product> _products = new List<Product>();
 
