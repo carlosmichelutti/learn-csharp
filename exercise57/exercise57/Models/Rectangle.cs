@@ -1,9 +1,10 @@
 ﻿namespace Exercise57.Models;
 
-public class Rectangle
+internal class Rectangle
 {
-    public double Height { get; set; }
-    public double Width { get; set; }
+    private double _area;
+    public double Height { get; }
+    public double Width { get; }
 
     public Rectangle(double height, double width)
     {
@@ -13,7 +14,7 @@ public class Rectangle
 
     public double CalculateArea()
     {
-        double area = Height * Width;
-        return area;
+        _area = Height * Width;
+        return _area;
     }
 }
