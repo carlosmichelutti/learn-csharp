@@ -1,4 +1,4 @@
-﻿namespace Exercise62.Models;
+﻿namespace exercise62.Models;
 
 internal class TechnicalInformation
 {
