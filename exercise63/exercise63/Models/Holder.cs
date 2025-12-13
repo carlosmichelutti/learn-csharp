@@ -1,11 +1,11 @@
-﻿namespace Exercise63.Models;
+﻿namespace exercise63.Models;
 
-public class Holder
+internal class Holder
 {
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public string Document { get; set; }
-    public DateTime DateBirth { get; set; }
+    public string FirstName { get; }
+    public string LastName { get; }
+    public string Document { get; }
+    public DateTime DateBirth { get; }
     public int Age => (int)((DateTime.Today - DateBirth).TotalDays / 365);
     public string DetailedDescription => $"Holder: {this.FirstName} {this.LastName} - Document: {this.Document} - Date of Birth {this.DateBirth:dd/MM/yyyy}";
 
