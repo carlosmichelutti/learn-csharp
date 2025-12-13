@@ -1,9 +1,9 @@
 ﻿namespace Exercise58.Models;
 
-public class Movie
+internal class Movie
 {
-    public string Title { get; set; }
-    public int AgeClassification { get; set; }
+    public string Title { get; }
+    public int AgeClassification { get; }
 
     public Movie(string title, int ageClassification)
     {
