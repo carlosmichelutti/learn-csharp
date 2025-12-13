@@ -1,9 +1,9 @@
 ﻿namespace Exercise54.Models;
 
-public class Ticket
+internal class Ticket
 {
-    public string Passenger { get; set; }
-    public string Destination { get; set; }
+    public string Passenger { get; }
+    public string Destination { get; }
 
     public Ticket(string passenger, string destination)
     {
