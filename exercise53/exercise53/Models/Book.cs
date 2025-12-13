@@ -1,4 +1,4 @@
-﻿namespace Exercise53.Models;
+﻿namespace exercise53.Models;
 
 internal class Book
 {
