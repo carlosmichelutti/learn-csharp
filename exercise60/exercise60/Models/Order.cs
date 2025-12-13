@@ -1,4 +1,4 @@
-﻿namespace Exercise60.Models;
+﻿namespace exercise60.Models;
 
 internal class Order
 {
