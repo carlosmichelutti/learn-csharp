@@ -1,4 +1,4 @@
-﻿namespace Exercise59.Models;
+﻿namespace exercise59.Models;
 
 internal class Product
 {
