@@ -1,9 +1,9 @@
 ﻿namespace Exercise56.Models;
 
-public class Employee
+internal class Employee
 {
-    public string Name { get; set; }
-    public string Position { get; set; }
+    public string Name { get; }
+    internal string Position { get; set; }
 
     public Employee(string name, string position)
     {
