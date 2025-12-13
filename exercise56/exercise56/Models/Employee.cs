@@ -1,4 +1,4 @@
-﻿namespace Exercise56.Models;
+﻿namespace exercise56.Models;
 
 internal class Employee
 {
