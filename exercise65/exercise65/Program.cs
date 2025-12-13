@@ -1,4 +1,4 @@
-﻿using Exercise65.Models;
+﻿using exercise65.Models;
 
 Product candy = new Product("Candy", "Halls", 4.99, 40);
 Product cookie = new Product("Cookie", "Oreo", 10, 60);
