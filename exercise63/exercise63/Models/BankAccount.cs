@@ -1,11 +1,11 @@
-﻿namespace Exercise63.Models;
+﻿namespace exercise63.Models;
 
-public class BankAccount
+internal class BankAccount
 {
-    public int AccountNumber { get; set; }
-    public Holder Holder { get; set; }
-    public double Balance { get; set; }
-    public string Password { get; set; }
+    public int AccountNumber { get; }
+    public Holder Holder { get; }
+    public double Balance { get; }
+    public string Password { get; }
 
     public BankAccount(int accountNumber, Holder holder, double balance, string password)
     {
