@@ -12,8 +12,14 @@ internal class Assessment
 
     public void AssignGrade(double newGrade)
     {
-        if (newGrade < 0 || newGrade > 10) Console.WriteLine("Error: The grade must be between 0 and 10.");
-        Grade = newGrade;
+        if (newGrade < 0 || newGrade > 10)
+        {
+            Console.WriteLine("Error: The grade must be between 0 and 10.");
+        }
+        else
+        {
+            Grade = newGrade;
+        }
     }
 
     public override string ToString()
