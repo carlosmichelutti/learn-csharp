@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise90\\exercise90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|solutionrelative:exercise90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise90\\exercise90\\models\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|solutionrelative:exercise90\\models\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise90\\exercise90\\models\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|solutionrelative:exercise90\\models\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise90\\exercise90\\models\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|solutionrelative:exercise90\\models\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise90\\exercise90\\models\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237B4A19-D37A-16F3-9AB3-27F9B7FFFED9}|exercise90\\exercise90.csproj|solutionrelative:exercise90\\models\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 398,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Program.cs",
+              "RelativeDocumentMoniker": "exercise90\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Program.cs",
+              "RelativeToolTip": "exercise90\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:04:11.827Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\PushNotification.cs",
+              "RelativeDocumentMoniker": "exercise90\\Models\\PushNotification.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\PushNotification.cs",
+              "RelativeToolTip": "exercise90\\Models\\PushNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:14:29.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "exercise90\\Models\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\SmsNotification.cs",
+              "RelativeToolTip": "exercise90\\Models\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:13:04.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "exercise90\\Models\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\EmailNotification.cs",
+              "RelativeToolTip": "exercise90\\Models\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:11:12.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\INotification.cs",
+              "RelativeDocumentMoniker": "exercise90\\Models\\INotification.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise90\\exercise90\\Models\\INotification.cs",
+              "RelativeToolTip": "exercise90\\Models\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:09:40.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
