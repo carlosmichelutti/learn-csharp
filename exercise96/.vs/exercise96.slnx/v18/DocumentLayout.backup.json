@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise96\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243C1350-6D78-7880-C838-A070E3717983}|exercise96\\exercise96.csproj|c:\\users\\duzin\\documents\\github\\learn-csharp\\exercise96\\exercise96\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C1350-6D78-7880-C838-A070E3717983}|exercise96\\exercise96.csproj|solutionrelative:exercise96\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 398,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise96\\exercise96\\Program.cs",
+              "RelativeDocumentMoniker": "exercise96\\Program.cs",
+              "ToolTip": "C:\\Users\\duzin\\Documents\\GitHub\\learn-csharp\\exercise96\\exercise96\\Program.cs",
+              "RelativeToolTip": "exercise96\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T01:29:55.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
