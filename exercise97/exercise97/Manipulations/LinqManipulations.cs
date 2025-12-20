@@ -68,4 +68,17 @@ internal class LinqManipulations
         Console.WriteLine($"Total: {musicsByYear.Count} songs of the year {year}\n");
         return musicsByYear;
     }
+
+    public static List<MusicDeserialize> GetMusicsByTone(List<MusicDeserialize> musics, string tone)
+    {
+        List<MusicDeserialize> musicsByTone = musics.Where(music => music.Tone.Equals(tone)).ToList();
+
+        Console.WriteLine($"Songs in the key of {tone}");
+        foreach (MusicDeserialize music in musicsByTone)
+        {
+            Console.WriteLine($" - {music.Song}");
+        }
+        Console.WriteLine($"Total: {musicsByTone.Count} songs in the key of {tone}\n");
+        return musicsByTone;
+    }
 }

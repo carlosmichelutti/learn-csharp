@@ -13,6 +13,7 @@ using (HttpClient client = new HttpClient())
         List<string> artistsByMusicGenre = LinqManipulations.GetArtistsByMusicGenre(musics, "rock");
         List<MusicDeserialize> musicsByArtist = LinqManipulations.GetMusicsByArtist(musics, "Eminem");
         List<MusicDeserialize> musicsByYear = LinqManipulations.GetMusicsByYear(musics, 2020);
+        List<MusicDeserialize> musicsByTone = LinqManipulations.GetMusicsByTone(musics, "C#");
 
         MusicSerialize musicSerialize = new MusicSerialize();
         musicSerialize.AddMusic(musicsByArtist);
