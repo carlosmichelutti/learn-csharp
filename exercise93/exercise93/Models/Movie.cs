@@ -16,5 +16,5 @@ internal class Movie
     [JsonPropertyName("imDbRating")]
     public string? Rating { get; set; }
 
-    public string DetailedDescription => $"Title {Title} - Rank {Rank} - Rating {Rating}";
+    public string DetailedDescription => $"Title: {Title} - Rank: {Rank} - Rating: {Rating}";
 }
