@@ -19,5 +19,5 @@ internal class Book
     [JsonPropertyName("paginas")]
     public int? Pages { get; set; }
 
-    public string DetailedDescription => $"Title: {Title} - Author: {Author} - Year of Publication {YearPublication} - Gender: {Gender} - Quantity Pages {Pages}";
+    public string DetailedDescription => $"Title: {Title} - Author: {Author} - Year of Publication: {YearPublication} - Gender: {Gender} - Quantity Pages: {Pages}";
 }
