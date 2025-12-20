@@ -1,4 +1,4 @@
-﻿using exercise94.Models;
+﻿using exercise95.Models;
 using System.Text.Json;
 
 using (HttpClient client = new HttpClient())
